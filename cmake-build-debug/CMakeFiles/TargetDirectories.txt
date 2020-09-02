@@ -1,0 +1,3 @@
+/cygdrive/f/Documents/Skewl/QC/QC Spring 2020 - Courses/CSCI 381/Projects/Project11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/f/Documents/Skewl/QC/QC Spring 2020 - Courses/CSCI 381/Projects/Project11/cmake-build-debug/CMakeFiles/Project11.dir
+/cygdrive/f/Documents/Skewl/QC/QC Spring 2020 - Courses/CSCI 381/Projects/Project11/cmake-build-debug/CMakeFiles/edit_cache.dir

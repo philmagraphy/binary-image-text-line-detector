@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/Documents/Skewl/QC/QC Spring 2020 - Courses/CSCI 381/Projects/Project11/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+algorithm
+-
+
